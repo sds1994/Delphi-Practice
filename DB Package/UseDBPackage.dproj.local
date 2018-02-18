@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/02/18 19:42:12.913,=rtl.dcp</Transaction>
+    <Transaction>2018/02/18 19:52:58.958,=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/18 20:32:06.304,D:\Delphi Practicals\Delphi-Practice\DB Package\DBUnit.dfm=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018/02/18 20:32:06.304,D:\Delphi Practicals\Delphi-Practice\DB Package\DBUnit.pas=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/18 20:32:22.197,D:\Delphi Practicals\Delphi-Practice\DB Package\UseDBPackage.dproj=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
