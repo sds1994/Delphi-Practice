@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/10 22:09:20.000.882,=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/11 13:40:16.000.856,=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/14 21:23:31.000.650,=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/18 18:15:16.587,=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/18 18:21:26.749,C:\Users\Samyak\Desktop\MainDLL\DLLUnit.pas=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/18 18:21:34.770,C:\Users\Samyak\Desktop\MainDLL\DLLProject.dproj=C:\Users\Samyak\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
