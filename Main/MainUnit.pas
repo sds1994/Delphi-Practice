@@ -8,8 +8,8 @@ uses
 
 type
   TMain = class(TForm)
-    Button1: TButton;
-    procedure Button1Click(Sender: TObject);
+    CallA: TButton;
+    procedure CallAClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -25,7 +25,7 @@ implementation
 
 {$R *.dfm}
 
-procedure TMain.Button1Click(Sender: TObject);
+procedure TMain.CallAClick(Sender: TObject);
 begin
   A;
 end;
