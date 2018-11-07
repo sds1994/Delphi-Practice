@@ -1,0 +1,30 @@
+unit DBUnit;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, Data.DB, Data.Win.ADODB;
+
+type
+  TDataModule2 = class(TDataModule)
+    ADOConnection1: TADOConnection;
+    SelectDataProc: TADOStoredProc;
+    SelectDataProcID: TAutoIncField;
+    SelectDataProcfname: TWideStringField;
+    SelectDataProclname: TWideStringField;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DataModule2: TDataModule2;
+
+implementation
+
+{%CLASSGROUP 'System.Classes.TPersistent'}
+
+{$R *.dfm}
+
+end.

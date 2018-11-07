@@ -1,0 +1,35 @@
+object DataModule2: TDataModule2
+  OldCreateOrder = False
+  Height = 337
+  Width = 581
+  object ADOConnection1: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sa;Initi' +
+      'al Catalog=MyData;Data Source=SAMYAK'
+    LoginPrompt = False
+    Provider = 'SQLOLEDB.1'
+    Left = 152
+    Top = 40
+  end
+  object SelectDataProc: TADOStoredProc
+    Connection = ADOConnection1
+    CursorType = ctStatic
+    ProcedureName = 'selectData'
+    Parameters = <>
+    Left = 376
+    Top = 48
+    object SelectDataProcID: TAutoIncField
+      FieldName = 'ID'
+      ReadOnly = True
+    end
+    object SelectDataProcfname: TWideStringField
+      FieldName = 'fname'
+      Size = 50
+    end
+    object SelectDataProclname: TWideStringField
+      FieldName = 'lname'
+      Size = 50
+    end
+  end
+end
